@@ -1,0 +1,27 @@
+.all {
+    background-color: red;
+    margin-top: 5rem;
+    height: 60vh;
+    text-align: center;
+}
+#al_text {
+    color: white;
+    padding: 5rem;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.vulonteer-text {
+    color: white;
+    padding-bottom: 30px;
+}
+#al_button {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: white;
+    text-transform: uppercase;
+}
+#al_button:hover {
+    background-color: transparent;
+    color: white;
+}

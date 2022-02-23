@@ -1,0 +1,41 @@
+.footer {
+    background-color: #202529;
+    margin-top: 4rem;
+    height: 65vh;
+}
+.header_in_footer {
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+}
+.header_in_footer1 {
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.text_in-footer {
+    color: white;
+    text-align: start;
+}
+.copyright {
+    background-color: #0E1012;
+    height: 15vh;
+}
+.copyright_text {
+    text-align: center;
+    padding: 35px;
+    color: white;
+}
+.head_office {
+    color: red;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: start;
+    padding-left: 65px;
+}
+.office_location {
+    
+}

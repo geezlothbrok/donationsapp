@@ -1,0 +1,28 @@
+img {
+    border-radius: 15px;
+}
+.topic {
+    text-align: center;
+    margin-top: 7rem;
+    margin-bottom: 4rem;
+}
+.topic h1 {
+    font-weight: bolder;
+    font-size: 20;
+}
+h4 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: #666565;
+}
+.icon-social{ 
+    background-color: white;
+    font-size: 15px;
+    border-color: 1px rgb(128, 126, 126);
+    border-radius: 100px;
+}
+.icon-social:hover {
+    background-color: red;
+}

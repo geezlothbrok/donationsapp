@@ -1,0 +1,37 @@
+.nav-menu {
+    display: flex;
+    float: right;
+    justify-content: right;
+    padding-left: 20rem;
+    justify-content: space-between;
+}
+
+.donate-button {
+    display: flex;
+    float: right;
+    border-radius: 50px;
+   
+}
+
+.style-button {
+    padding-left: 20rem;
+    padding-top: 18px;
+   
+}
+.navbar-dark .navbar-nav .nav-link {
+    text-decoration: none;
+    color: #f5f5f5;
+    font-size: 15px;
+    padding-top: 35px;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: red;
+}
+.logo_nav {
+    width: 80px;
+    height: 80px;
+    margin-left: 15px;
+    border-radius: 3px;
+}
+
+
